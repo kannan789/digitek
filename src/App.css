@@ -1,0 +1,32 @@
+.navigation {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  background-color: rgb(145, 99, 219);
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  gap: 100px; 
+}
+
+h1 {
+  color: black;
+}
+
+button {
+  padding: 10px 30px;
+  background-color: rgb(144, 20, 189);
+  border-radius: 8px;
+  border: none;
+  color: white;
+}
+
+.crsl {
+  height: 200px;
+  width: 100%;
+}
