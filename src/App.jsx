@@ -45,6 +45,49 @@ function App() {
         </button>
       </div>
     </div>
+    <div class="about">
+        <h2>About Us</h2>
+          <div>
+              At <span class="bld">Digitek</span>, we craft digital experiences that don’t just look good—they perform. Our mission is to help businesses transform ideas into powerful, user-friendly web solutions that drive growth and engagement.
+          </div>
+        <h4>What We Do</h4>
+        <ul>
+
+          <li><span class="bld">Custom Web Development</span> – Building responsive, scalable websites tailored to your brand.</li>
+          <li><span class="bld">UI/UX Design</span> – Creating intuitive interfaces that delight users and boost conversions.</li>
+          <li><span class="bld">Performance Optimization</span> – Ensuring speed, accessibility, and seamless functionality across devices.</li>
+          <li><span class="bld">Digital Strategy</span> – Aligning technology with your business goals for measurable impact.</li>
+        </ul>
+
+        <h4>Why Choose Us</h4>
+          <div>We blend creativity with technical expertise, combining modern frameworks like React, Next.js, and TypeScript with a keen eye for design. Every project is approached with precision, collaboration, and a focus on delivering results that matter.
+          </div>
+
+        <h4>Our Vision</h4>
+          <div>To empower businesses with digital solutions that are not only visually compelling but also strategically effective—helping you stand out in a competitive online world.</div>
+          
+
+    </div>
+
+    <div class="contact-form">
+      <h2>Contact</h2>
+      <form>
+        <div>
+          <label>Name</label>
+          <input type="text" />
+        </div>
+        <div>
+          <label>Email</label>
+          <input type="text" />
+        </div>
+        <div>
+          <label>Message</label>
+          <textarea>
+
+          </textarea>
+        </div>
+      </form>
+    </div>
   
       
     </>
